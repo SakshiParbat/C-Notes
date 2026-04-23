@@ -1,2 +1,11 @@
-# C-Notes
-Created and maintained structured C++ notes repository covering core concepts and problem-solving techniques.
+# C++ Notes 📘
+
+This repository contains structured C++ notes covering basic to advanced concepts.
+
+## Topics Covered
+- Basics
+- OOP
+- STL
+- Data Structures
+
+Useful for beginners and interview preparation.
